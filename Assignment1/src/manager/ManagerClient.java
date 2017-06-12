@@ -129,6 +129,11 @@ public class ManagerClient {
 		String specialization = in.next();
 		System.out.println("Please enter: location");
 		String location = in.next();
+		if(!location.equals("DDO")&&!location.equals("LVL")&&!location.equals("MTL"))
+		{
+			System.out.println("Wrong location, please select again!");
+			return;
+		}
 
 		Log.write(managerID + "\t\tCreate Teacher Record :   " + "\n" + firstName 
 				+ "   " + lastName + "   " + address + "   " + phone + "   " + specialization 
@@ -165,6 +170,7 @@ public class ManagerClient {
 		String status = in.next();
 		System.out.println("Please enter: statusDate");
 		String statusDate = in.next();
+		
 		//in.close();
 		
 		Log.write(managerID + "\t\tCreate Student Record :   " + "\n" + firstName 
