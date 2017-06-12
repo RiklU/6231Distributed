@@ -1,0 +1,14 @@
+20:09:39 : Connect to MTL successful
+20:09:50 : MTL1007		Create Teacher Record :   
+ASDA   ASDAS   ASD   ASD   ASD   ASD
+20:09:50 : MTL1007		Create Teacher Record successful
+20:09:50 : Connect to MTL successful
+20:10:09 : Connect to MTL successful
+20:10:33 : MTL1007---Record edit---SR10001 location DDO
+20:10:33 : MTL1007---Record edit fail---SR10001
+location : DDO
+20:10:33 : Connect to MTL successful
+20:12:09 : MTL1007---Record edit---TR10003 location MTL
+20:12:09 : MTL1007---Record edit success---TR10003
+location : MTL
+20:12:09 : Connect to MTL successful

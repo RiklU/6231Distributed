@@ -1,0 +1,9 @@
+14:46:41 : Connect to DDO successful
+14:46:51 : DDO4000		Create Teacher Record :   
+ASD   ASD   ASD   ASD   ASD   ASD
+14:46:51 : DDO4000		Create Teacher Record successful
+14:46:51 : Connect to DDO successful
+14:48:25 : DDO4000---Record edit---TR10001 location asdasd
+14:48:25 : DDO4000---Record edit success---TR10001
+location : asdasd
+14:48:25 : Connect to DDO successful

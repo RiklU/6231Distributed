@@ -1,0 +1,7 @@
+14:22:01 : LVL3000		Create Teacher Record :   TR10001
+PO   PO   PO   PO   PO   PO
+14:29:29 : LVL4000		Create Teacher Record :   TR10001
+RRRR   RRRR   RRRR   RRRR   RRRR   RRRR
+14:30:33 : LVL4000---Record edit---TR10001
+address : ffffff
+14:30:33 : LVL4000---Record edit success

@@ -1,0 +1,10 @@
+14:21:08 : Connect to DDO successful
+14:22:19 : DDO3000		Create Student Record :   
+JO   JO   JO   JO   JO
+14:22:19 : DDO3000		Create Student Record successful
+14:22:19 : Connect to DDO successful
+14:22:24 : Connect to DDO successful
+14:24:56 : DDO3000---Record edit---SR10001 status ssss
+14:24:56 : DDO3000---Record edit success---SR10001
+status : ssss
+14:24:56 : Connect to DDO successful

@@ -1,0 +1,5 @@
+20:05:58 : Connect to MTL successful
+20:08:33 : MTL1000		Create Teacher Record :   
+TTT   TTT   TTT   TTT   TTT   TTT
+20:08:33 : MTL1000		Create Teacher Record successful
+20:08:33 : Connect to MTL successful

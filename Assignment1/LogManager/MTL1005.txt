@@ -1,0 +1,22 @@
+13:30:29 : Connect to MTL successful
+13:30:43 : MTL1005		Create Teacher Record :   
+NI   NI   NI   NI   NI   NI
+13:30:43 : MTL1005		Create Teacher Record successful
+13:30:43 : Connect to MTL successful
+13:31:28 : Connect to MTL successful
+13:36:21 : MTL1005---Record edit---SR10001 status kkkkkk
+13:36:22 : MTL1005---Record edit fail---SR10001
+status : kkkkkk
+13:36:22 : Connect to MTL successful
+13:37:08 : MTL1005---Record edit---SR10001 status kkkkk
+13:37:08 : MTL1005---Record edit fail---SR10001
+status : kkkkk
+13:37:08 : Connect to MTL successful
+13:37:32 : MTL1005---Record edit---SR10001 status sadasdasdas
+13:37:32 : MTL1005---Record edit fail---SR10001
+status : sadasdasdas
+13:37:32 : Connect to MTL successful
+13:38:31 : MTL1005---Record edit---TR10001 phone IIII
+13:38:31 : MTL1005---Record edit fail---TR10001
+phone : IIII
+13:38:31 : Connect to MTL successful

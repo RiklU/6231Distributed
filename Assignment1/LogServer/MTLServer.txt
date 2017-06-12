@@ -1,0 +1,51 @@
+15:03:48 : MTL2002		Create Student Record :   SR10001
+DAS   ASD   ASD   ASD   ASD
+15:04:27 : MTL2002 fail to edit---Invalid RecordID
+13:30:43 : MTL1005		Create Teacher Record :   TR10001
+NI   NI   NI   NI   NI   NI
+13:31:17 : MTL1004		Create Student Record :   SR10001
+DNIASD   SADASD   ASDASD   ASDASD   ASDASD
+13:36:22 : MTL1005 fail to edit---Invalid RecordID
+13:37:08 : MTL1005 fail to edit---Invalid RecordID
+13:37:32 : MTL1005 fail to edit---Invalid RecordID
+13:38:31 : MTL1005 fail to edit---Invalid RecordID
+14:08:34 : MTL1006		Create Student Record :   SR10001
+F   F   F   F   F
+14:08:57 : MTL1006---Record edit---SR10001
+status : oooo
+14:08:57 : MTL1006---Record edit success
+14:21:45 : MTL3000		Create Student Record :   SR10001
+LO   LO   LO   LO   LO
+14:27:52 : MTL4000		Create Teacher Record :   TR10001
+TT   TT   TT   TT   TT   TT
+14:28:12 : MTL4000---Record edit---TR10001
+address : rrrrrr
+14:28:12 : MTL4000---Record edit success
+14:28:27 : MTL4000		Create Student Record :   SR10001
+tttt   tttt   tttt   tttt   tttt
+14:28:45 : MTL4000 fail to edit---Invalid RecordID
+14:42:47 : MTL4000 fail to edit---Invalid RecordID
+14:43:57 : MTL4000		Create Teacher Record :   TR10002
+TRTRTR   TRTRTR   TRTRT   TRTRT   TRTRT   TRTRT
+14:44:50 : MTL4000 fail to edit---Invalid RecordID
+14:45:03 : MTL4000---Record edit---TR10002
+address : vvvvvv
+14:45:03 : MTL4000---Record edit success
+19:51:14 : MTL1002		Create Teacher Record :   TR10001
+TTTTT   TTT   TTTT   TTTT   TTTT   TTT
+19:51:46 : MTL1002---Record edit---TR10001
+address : ASDASDASD
+19:51:46 : MTL1002---Record edit success
+19:52:04 : MTL1002		Create Student Record :   SR10001
+SDSD   SDSD   SDSD   SDSD   SDSD
+19:52:25 : MTL1002---Record edit---SR10001
+status : rrrrrrrrr
+19:52:25 : MTL1002---Record edit success
+20:08:33 : MTL1000		Create Teacher Record :   TR10002
+TTT   TTT   TTT   TTT   TTT   TTT
+20:09:50 : MTL1007		Create Teacher Record :   TR10003
+ASDA   ASDAS   ASD   ASD   ASD   ASD
+20:10:33 : MTL1007 fail to edit---FieldName cannot match
+20:12:09 : MTL1007---Record edit---TR10003
+location : MTL
+20:12:09 : MTL1007---Record edit success

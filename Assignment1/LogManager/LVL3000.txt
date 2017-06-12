@@ -1,0 +1,6 @@
+14:20:57 : Connect to LVL successful
+14:22:01 : LVL3000		Create Teacher Record :   
+PO   PO   PO   PO   PO   PO
+14:22:01 : LVL3000		Create Teacher Record successful
+14:22:01 : Connect to LVL successful
+14:23:03 : LVL3000---Record edit---TR10001 address jjjjjj

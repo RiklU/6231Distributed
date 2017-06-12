@@ -1,0 +1,7 @@
+13:29:33 : Connect to MTL successful
+13:31:04 : Connect to MTL successful
+13:31:17 : MTL1004		Create Student Record :   
+DNIASD   SADASD   ASDASD   ASDASD   ASDASD
+13:31:17 : MTL1004		Create Student Record successful
+13:31:17 : Connect to MTL successful
+13:31:20 : Connect to MTL successful

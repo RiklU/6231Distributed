@@ -1,0 +1,6 @@
+14:20:35 : Connect to MTL successful
+14:21:24 : Connect to MTL successful
+14:21:45 : MTL3000		Create Student Record :   
+LO   LO   LO   LO   LO
+14:21:45 : MTL3000		Create Student Record successful
+14:21:45 : Connect to MTL successful

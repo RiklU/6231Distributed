@@ -1,0 +1,11 @@
+14:29:16 : Connect to LVL successful
+14:29:29 : LVL4000		Create Teacher Record :   
+RRRR   RRRR   RRRR   RRRR   RRRR   RRRR
+14:29:29 : LVL4000		Create Teacher Record successful
+14:29:29 : Connect to LVL successful
+14:29:32 : Connect to LVL successful
+14:30:33 : LVL4000---Record edit---TR10001 address ffffff
+14:30:33 : LVL4000---Record edit success---TR10001
+address : ffffff
+14:30:33 : Connect to LVL successful
+14:45:58 : Connect to LVL successful

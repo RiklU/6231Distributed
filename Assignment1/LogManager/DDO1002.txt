@@ -1,0 +1,5 @@
+13:40:23 : Connect to DDO successful
+13:40:38 : DDO1002		Create Student Record :   
+TT   TT   TT   TT   TT
+13:40:38 : DDO1002		Create Student Record successful
+13:40:38 : Connect to DDO successful

@@ -1,0 +1,9 @@
+13:43:00 : Connect to DDO successful
+13:43:08 : DDO1005		Create Student Record :   
+HH   HH   HH   HH   HH
+13:43:08 : DDO1005		Create Student Record successful
+13:43:08 : Connect to DDO successful
+13:43:30 : DDO1005---Record edit---SR10001 status fffff
+13:43:30 : DDO1005---Record edit fail---SR10001
+status : fffff
+13:43:30 : Connect to DDO successful

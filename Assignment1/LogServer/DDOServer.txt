@@ -1,0 +1,15 @@
+13:40:38 : DDO1002		Create Student Record :   SR10001
+TT   TT   TT   TT   TT
+13:43:08 : DDO1005		Create Student Record :   SR10001
+HH   HH   HH   HH   HH
+13:43:30 : DDO1005 fail to edit---Invalid RecordID
+14:22:19 : DDO3000		Create Student Record :   SR10001
+JO   JO   JO   JO   JO
+14:24:56 : DDO3000---Record edit---SR10001
+status : ssss
+14:24:56 : DDO3000---Record edit success
+14:46:51 : DDO4000		Create Teacher Record :   TR10001
+ASD   ASD   ASD   ASD   ASD   ASD
+14:48:25 : DDO4000---Record edit---TR10001
+location : asdasd
+14:48:25 : DDO4000---Record edit success

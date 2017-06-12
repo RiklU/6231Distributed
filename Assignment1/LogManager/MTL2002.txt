@@ -1,0 +1,14 @@
+15:03:37 : Connect to MTL successful
+15:03:48 : MTL2002		Create Student Record :   
+DAS   ASD   ASD   ASD   ASD
+15:03:48 : MTL2002		Create Student Record successful
+15:03:48 : Connect to MTL successful
+15:03:52 : Connect to MTL successful
+15:04:27 : MTL2002---Record edit---MTL2002 status hhhh
+15:04:27 : MTL2002---Record edit fail---MTL2002
+status : hhhh
+15:04:27 : Connect to MTL successful
+15:06:04 : MTL2002---Record edit---SR10001 status yyyy
+15:06:04 : MTL2002---Record edit success---SR10001
+status : yyyy
+15:06:04 : Connect to MTL successful

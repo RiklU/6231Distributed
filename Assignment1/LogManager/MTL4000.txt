@@ -1,0 +1,35 @@
+14:27:41 : Connect to MTL successful
+14:27:52 : MTL4000		Create Teacher Record :   
+TT   TT   TT   TT   TT   TT
+14:27:52 : MTL4000		Create Teacher Record successful
+14:27:52 : Connect to MTL successful
+14:28:12 : MTL4000---Record edit---TR10001 address rrrrrr
+14:28:12 : MTL4000---Record edit success---TR10001
+address : rrrrrr
+14:28:12 : Connect to MTL successful
+14:28:27 : MTL4000		Create Student Record :   
+tttt   tttt   tttt   tttt   tttt
+14:28:27 : MTL4000		Create Student Record successful
+14:28:27 : Connect to MTL successful
+14:28:45 : MTL4000---Record edit---SR10001 status cccc
+14:28:45 : MTL4000---Record edit fail---SR10001
+status : cccc
+14:28:45 : Connect to MTL successful
+14:40:23 : Connect to MTL successful
+14:42:47 : MTL4000---Record edit---SR10001 status fffff
+14:42:47 : MTL4000---Record edit fail---SR10001
+status : fffff
+14:42:47 : Connect to MTL successful
+14:43:57 : MTL4000		Create Teacher Record :   
+TRTRTR   TRTRTR   TRTRT   TRTRT   TRTRT   TRTRT
+14:43:57 : MTL4000		Create Teacher Record successful
+14:43:57 : Connect to MTL successful
+14:44:50 : MTL4000---Record edit---TRTR10002 SA ASD
+14:44:50 : MTL4000---Record edit fail---TRTR10002
+SA : ASD
+14:44:50 : Connect to MTL successful
+14:45:03 : MTL4000---Record edit---TR10002 address vvvvvv
+14:45:03 : MTL4000---Record edit success---TR10002
+address : vvvvvv
+14:45:03 : Connect to MTL successful
+14:47:09 : Connect to MTL successful
