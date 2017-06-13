@@ -1,0 +1,6 @@
+15:27:31 : Connect to DDO successful
+15:27:42 : Connect to DDO successful
+15:27:57 : DDO1001		Create Teacher Record :   
+SAD   ASD   ASD   ASD   ASD   MTL
+15:27:57 : DDO1001		Create Teacher Record successful
+15:27:57 : Connect to DDO successful

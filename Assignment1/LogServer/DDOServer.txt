@@ -13,3 +13,5 @@ status : ssss
 14:48:25 : DDO4000---Record edit---TR10001
 location : asdasd
 14:48:25 : DDO4000---Record edit success
+15:27:57 : DDO1001		Create Teacher Record :   TR10001
+SAD   ASD   ASD   ASD   ASD   MTL
