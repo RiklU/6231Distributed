@@ -83,6 +83,8 @@ public class ClinicServer extends ClinicInterfacePOA implements ClinicInterface{
 		hashRecord.put("Y", recordY);
 		hashRecord.put("Z", recordZ);
 		managerAllowID.add("DDO1000");
+		
+		///THIS IS A TEST
 	}
 	
 	public int createDRecord(String managerID,String firstName,String lastName,String address,String phone,String specialization,String location){
